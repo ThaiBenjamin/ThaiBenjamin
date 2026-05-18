@@ -1,4 +1,4 @@
-# Hi, I'm Benjamin Thai 👋
+# Hi, I'm Benjamin Thai 
 
 I'm a software developer and CS student at UC Irvine — I build full-stack web apps, mobile apps, and machine learning projects. Currently focused on Next.js, Python, and AI-powered tools.
 
