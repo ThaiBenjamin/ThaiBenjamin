@@ -1,70 +1,60 @@
-# Hi, I'm Benjamin Thai 
+# Benjamin Thai
 
-I'm a software developer and CS student at UC Irvine — I build full-stack web apps, mobile apps, and machine learning projects. Currently focused on Next.js, Python, and AI-powered tools.
+CS student at UC Irvine. I build full-stack web apps, self-hosted ML pipelines, and
+tools for the parts of daily life that are more annoying than they need to be.
+Most of what's here started as something I wanted fixed.
 
----
+Portfolio: [benjamin-portfolio-psi.vercel.app](https://benjamin-portfolio-psi.vercel.app)
 
-## 🚀 Projects
+## Projects
 
-Projects I designed, built, and shipped end-to-end.
+Things I designed, built, and shipped end to end.
 
-| Repository | Description | Stack |
-|---|---|---|
-| [📈 finally](https://github.com/ThaiBenjamin/finally) | AI-powered trading workstation — live SSE price streaming, simulated portfolio, and an LLM chat that auto-executes trades. [Live demo](https://finally-gules.vercel.app) | ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-square) ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white&style=flat-square) |
-| [⚖️ prelegal](https://github.com/ThaiBenjamin/prelegal) | Platform for drafting common legal agreements — Mutual NDA generator on a FastAPI + Next.js foundation | ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square) |
-| [🗂️ mvp](https://github.com/ThaiBenjamin/mvp) | Full-stack Kanban project management app with AI chat that can create & move cards | ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square) |
-| [🎓 cypress-scheduler](https://github.com/ThaiBenjamin/cypress-scheduler) | Course scheduler for Cypress College — search classes, build conflict-free plans, view on map | ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square) |
-| [📋 codex_kanban](https://github.com/ThaiBenjamin/codex_kanban) | Clean, minimal Kanban board with drag-and-drop, column renaming, and full test suite | ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) |
-| [🥗 FoodFit](https://github.com/ThaiBenjamin/FoodFit) | Android app for fitness goal tracking, nutrition info, and health resources | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat-square) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square) |
-| [💸 expense-tracker](https://github.com/ThaiBenjamin/expense-tracker) | Flask web app for logging expenses with auto-generated spending charts | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white&style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square) |
-
----
-
-## 📖 Learning & Practice
-
-Coursework, exercises, and workshops where I built foundational skills.
-
-### 🌐 Web Development
-
-| Repository | What I Learned |
+| Repository | What it is |
 |---|---|
-| [html-assignments-projects](https://github.com/ThaiBenjamin/html-assignments-projects) | HTML structure, CSS styling, Bootstrap grid, intro JavaScript |
-| [Museum_Of_Candy](https://github.com/ThaiBenjamin/Museum_Of_Candy) | Bootstrap layout — alternating sections, navbar, responsive design |
-| [navbar](https://github.com/ThaiBenjamin/navbar) | CSS Flexbox and media queries for responsive navigation |
-| [PricingPanel](https://github.com/ThaiBenjamin/PricingPanel) | CSS pricing table — visual hierarchy, Flexbox card layout |
-| [CSS-Photography-Projectt](https://github.com/ThaiBenjamin/CSS-Photography-Projectt) | CSS layout and typography for an image-heavy portfolio page |
+| [cypress-scheduler](https://github.com/ThaiBenjamin/cypress-scheduler) | A course planner for Cypress College. Search sections, generate conflict-free weeks, see buildings on a map. [Live](https://cypress-scheduler-theta.vercel.app) — Next.js, PostgreSQL, Prisma |
+| [finally](https://github.com/ThaiBenjamin/finally) | A trading workstation with streaming prices and an AI copilot that actually executes trades instead of describing them. [Live](https://finally-gules.vercel.app) — Next.js, FastAPI, SSE |
+| [PhotoVault](https://github.com/ThaiBenjamin/PhotoVault) | A photo server my family uploads to from their phones. Ask for a picture in plain English; nothing leaves hardware I own. Docker, Immich, Ollama |
+| [prelegal](https://github.com/ThaiBenjamin/prelegal) | Drafts standard legal agreements by conversation. The assistant fills the cover page; the legal text is never generated. Next.js, FastAPI |
+| [mvp](https://github.com/ThaiBenjamin/mvp) | A Kanban board with an AI sidebar that moves the cards itself, through the same validated path the buttons use. Next.js, FastAPI |
+| [arduino-obstacle-detector](https://github.com/ThaiBenjamin/arduino-obstacle-detector) | An ultrasonic proximity alarm on an UNO. Six things happening at once on a chip that can only do one. C++ |
+| [FoodFit](https://github.com/ThaiBenjamin/FoodFit) | High school Android app: point a camera at a plate, find out what's on it. Java, Firebase |
+| [expense-tracker](https://github.com/ThaiBenjamin/expense-tracker) | A Flask app for logging spending, with charts regenerated from the data on every load. Python, pandas |
 
-### ⚙️ Computer Science (C/C++)
+## Machine learning
 
-| Repository | What I Learned |
+| Repository | What it is |
 |---|---|
-| [46C](https://github.com/ThaiBenjamin/46C) | Data structures: ArrayList, LinkedList, Stacks, Queues, Trees, Sorting, Hashing |
-| [45C](https://github.com/ThaiBenjamin/45C) | C++ fundamentals: pointers, OOP, linked lists, inheritance, templates |
+| [ml-pandas-numpy-scikit](https://github.com/ThaiBenjamin/ml-pandas-numpy-scikit) | The groundwork: NumPy, pandas, Matplotlib, and the full scikit-learn workflow |
+| [end-to-end-heart-disease](https://github.com/ThaiBenjamin/end-to-end-heart-disease) | Classification on clinical data. Three models compared, tuned, and evaluated on recall |
+| [end-to-end-bulldozer-price](https://github.com/ThaiBenjamin/end-to-end-bulldozer-price) | Regression on 412k rows of messy auction data with a time-based split |
+| [end-to-end-dog-vision](https://github.com/ThaiBenjamin/end-to-end-dog-vision) | 120 dog breeds from photos, using transfer learning on MobileNetV2 |
+| [computer-vision](https://github.com/ThaiBenjamin/computer-vision) | YOLOv8 on a webcam feed, announcing what it sees out loud |
+| [breast-cancer](https://github.com/ThaiBenjamin/breast-cancer) | Logistic regression on the Wisconsin dataset |
 
-### 🐍 Python
+## Coursework
 
-| Repository | What I Learned |
+| Repository | Course |
 |---|---|
-| [cs50-python](https://github.com/ThaiBenjamin/cs50-python) | Python from scratch: OOP, regex, file I/O, API calls, testing — Harvard CS50P |
-| [expense-tracker](https://github.com/ThaiBenjamin/expense-tracker) | Flask + pandas + matplotlib in a complete web app |
+| [searchengine](https://github.com/ThaiBenjamin/searchengine) | CS 121 — a disk-backed search engine over 55,393 crawled pages |
+| [cs121](https://github.com/ThaiBenjamin/cs121) | CS 121 — tokenizer and word frequency counter, with complexity analysis |
+| [46C](https://github.com/ThaiBenjamin/46C) | ICS 46C — data structures written from scratch in C++ |
+| [45C](https://github.com/ThaiBenjamin/45C) | ICS 45C — intro to C and C++ |
+| [ics51](https://github.com/ThaiBenjamin/ics51) | ICS 51 — MIPS assembly on the MARS simulator |
+| [cs50-python](https://github.com/ThaiBenjamin/cs50-python) | Harvard CS50P |
 
-### 🤖 Machine Learning & AI
+## Learning by building
 
-| Repository | What I Learned |
+| Repository | What I was practicing |
 |---|---|
-| [ML101-Code-Examples](https://github.com/ThaiBenjamin/ML101-Code-Examples) | ML fundamentals and decision trees — AI@UCI workshop notebooks |
-| [computer-vision](https://github.com/ThaiBenjamin/computer-vision) | Real-time object detection with YOLOv8 + OpenCV + text-to-speech |
-| [breast-cancer](https://github.com/ThaiBenjamin/breast-cancer) | Supervised ML pipeline: logistic regression, feature scaling, classification metrics |
+| [LearningArduino](https://github.com/ThaiBenjamin/LearningArduino) | Twenty activities from one blinking LED up to interrupts and EEPROM |
+| [html-assignments-projects](https://github.com/ThaiBenjamin/html-assignments-projects) | HTML, CSS, Bootstrap, and the first bits of JavaScript |
+| [Museum_Of_Candy](https://github.com/ThaiBenjamin/Museum_Of_Candy) | Bootstrap layout — alternating sections and a fixed navbar |
+| [navbar](https://github.com/ThaiBenjamin/navbar) | Flexbox and media queries |
+| [PricingPanel](https://github.com/ThaiBenjamin/PricingPanel) | A three-tier pricing table in plain CSS |
+| [CSS-Photography-Projectt](https://github.com/ThaiBenjamin/CSS-Photography-Projectt) | Layout and typography for an image-heavy page |
+| [discussionthree](https://github.com/ThaiBenjamin/discussionthree) | Git and the GitHub workflow |
 
-### 🔧 Tools & Workflows
+## Contact
 
-| Repository | What I Learned |
-|---|---|
-| [discussionthree](https://github.com/ThaiBenjamin/discussionthree) | Git fundamentals, GitHub workflow, branching, pull requests |
-
----
-
-## 📫 Contact
-
-[![GitHub](https://img.shields.io/badge/GitHub-ThaiBenjamin-181717?logo=github&logoColor=white)](https://github.com/ThaiBenjamin)
-[![Email](https://img.shields.io/badge/Email-25bthai52%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:25bthai52@gmail.com)
+[25bthai52@gmail.com](mailto:25bthai52@gmail.com) · [LinkedIn](https://www.linkedin.com/in/benjamin-thai25)
